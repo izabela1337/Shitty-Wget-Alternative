@@ -1,0 +1,13 @@
+D:\REPOS\Shitty-Wget-Alternative\cs\bin\Debug\netcoreapp3.1\cs.exe
+D:\REPOS\Shitty-Wget-Alternative\cs\bin\Debug\netcoreapp3.1\cs.deps.json
+D:\REPOS\Shitty-Wget-Alternative\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+D:\REPOS\Shitty-Wget-Alternative\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+D:\REPOS\Shitty-Wget-Alternative\cs\bin\Debug\netcoreapp3.1\cs.dll
+D:\REPOS\Shitty-Wget-Alternative\cs\bin\Debug\netcoreapp3.1\cs.pdb
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.csprojAssemblyReference.cache
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.dll
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.pdb
+D:\REPOS\Shitty-Wget-Alternative\cs\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
